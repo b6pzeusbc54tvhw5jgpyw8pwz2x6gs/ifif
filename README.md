@@ -1,3 +1,4 @@
+[![npm version](https://img.shields.io/npm/v/ifif.svg?style=flat-square)](https://www.npmjs.com/package/ifif)
 # ifif
 
 
